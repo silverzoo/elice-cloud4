@@ -1,0 +1,10 @@
+### default ignore ###
+encodigns.xml
+misc.xml
+modules.xml
+vcx.xml
+.DS_Store
+
+.idea
+cloud4.iml
+
