@@ -16,6 +16,7 @@ git push <원격저장소> <브랜치이름> (기본설정 외의 다른 브랜�
 git remote add <name> <URL> (원격저장소로 사용하고 싶은 주소와 이름을 설정한다)
 git clone <URL>
 ```
+
 ## Linux
 ```shell
 cd (change directory. 홈디렉토리로 이동한다 나의 경우는 /Users/bada)
