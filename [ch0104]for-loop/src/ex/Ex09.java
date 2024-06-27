@@ -1,6 +1,6 @@
 package ex;
 
-public class Ex9 {
+public class Ex09 {
     public static void main(String args[]) {
         int [][] data = {{1, 2, 3, 4, 5}, {6, 7, 8, 9, 10}, {10, 9, 8, 7, 6}, {5, 4, 3, 2, 1}};
 

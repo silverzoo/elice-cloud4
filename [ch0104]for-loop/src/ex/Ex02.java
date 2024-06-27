@@ -1,6 +1,6 @@
 package ex;
 
-public class Ex2 {
+public class Ex02 {
     public static void main(String[] args) {
         int count = 10;
 
