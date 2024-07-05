@@ -1,6 +1,5 @@
 package LetsFish;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class FishGame {
@@ -8,7 +7,7 @@ public class FishGame {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println(STR."Let’s Fish! 500P 이상이 되면 성공 \uD83D\uDE06 미만이면 실패 \uD83D\uDE2D");
+        System.out.println("Let’s Fish! 500P 이상이 되면 성공 \uD83D\uDE06 미만이면 실패 \uD83D\uDE2D");
         System.out.print("Name : ");
 
         String name = sc.nextLine();
