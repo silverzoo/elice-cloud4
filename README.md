@@ -1,5 +1,17 @@
-# 명령어 정리
-## Git
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=hi,%20I'm%20eunju.&fontColor=fffff&fontSize=120&stroke=b272fa&strokeWidth=0.5)
+<div align=center>	
+
+<a href="https://www.notion.so/elice-track/76811849957140188d36ea11193e5f44?pvs=4">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
+<a href="https://kdt-gitlab.elice.io/">
+    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
+
+</div>
+
+## 명령어 정리
+### Git
 ```shell
 git log
 git init
@@ -17,7 +29,7 @@ git remote add <name> <URL> (원격저장소로 사용하고 싶은 주소와 �
 git clone <URL>
 ```
 
-## Linux
+### Linux
 ```shell
 cd (change directory. 홈디렉토리로 이동한다 나의 경우는 /Users/bada)
 cd .. (뒤로가기.상위 디렉토리로 이동)
