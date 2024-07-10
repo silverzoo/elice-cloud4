@@ -1,9 +1,11 @@
-//@FunctionalInterface
+package practice1;
+
+@java.lang.FunctionalInterface
 interface EliceFunctionalInterface {
     void accept(int x);
 }
 
-public class FunctionalInterface {
+public class Main {
     public static void main(String[] args) throws Exception {
 
         //익명 객체
@@ -15,9 +17,10 @@ public class FunctionalInterface {
         //      }
         //  };
 
-        // 지시 사항에 따라 코드를 작성해 주세요.
-        EliceFunctionalInterface example = (x -> System.out.println(x*5));
-
+        //람다 표현식.
+        //EliceFunctionalInterface example = (x -> System.out.println(x*5));
+        //중괄호{}를 사용하여 함수를 정확히 명시한 것 뿐. 두 코드 모두 잘 작동한다.
+        EliceFunctionalInterface example = (x) -> {System.out.println(x * 5);};
 
         example.accept(5);
     }
