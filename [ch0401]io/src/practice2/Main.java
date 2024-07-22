@@ -7,7 +7,7 @@ import java.io.IOException;
 public class Main {
     public static void main(String[] args) {
         String projectRootPath = System.getProperty("user.dir");
-        String projectPath = "/[ch0401]io/src/practice1";
+        String projectPath = "/[ch0401]io/src/practice2";
 
         String sourceFilePath = STR."\{projectRootPath}\{projectPath}/image.png";
         String destinationFilePath = STR."\{projectRootPath}\{projectPath}/copied-image.png";
