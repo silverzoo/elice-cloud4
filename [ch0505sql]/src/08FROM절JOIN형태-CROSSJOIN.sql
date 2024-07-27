@@ -10,7 +10,7 @@ ORDER BY first_name, last_name;
 
 
 --(CROSS) 생략가능
--- SELECT first_name, last_name
--- FROM FIRST_NAME_T
--- JOIN LAST_NAME_T
--- ORDER BY first_name, last_name;
+SELECT first_name, last_name
+FROM FIRST_NAME_T
+JOIN LAST_NAME_T
+ORDER BY first_name, last_name;
