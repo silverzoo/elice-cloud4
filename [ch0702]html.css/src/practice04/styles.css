@@ -1,0 +1,11 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+}
+
+#gradient-background {
+    height: 100%;
+    /* 여기에 코드를 작성하세요. */
+    background: linear-gradient(red, blue);
+}

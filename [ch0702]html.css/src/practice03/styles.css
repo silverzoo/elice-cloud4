@@ -1,0 +1,9 @@
+div {
+    background-color: yellow;
+    /* 여기에 코드를 작성하세요. */
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+    padding: 10px;
+    border: solid black 5px;
+}
