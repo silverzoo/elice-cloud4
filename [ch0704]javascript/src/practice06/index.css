@@ -1,0 +1,23 @@
+div {
+    background-color: #ccc;
+    text-align: center;
+    height: 120px;
+    line-height: 120px;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: gold;
+}
+
+.green {
+    background-color: lightgreen;
+}
+
+/*응용*/
+.purple {
+    background-color: purple;
+}

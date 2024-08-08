@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+.select {
+    width: 100%;
+    height: 50px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.select.one {
+    background-color: #b3b3b3;
+}
+
+.select.two {
+    background-color: #56bec9;
+}
+
+.select.three {
+    background-color: #7ef2f2;
+}
+
+.check_icon {
+    display: none; /* 체크 박스가 보이지 않도록 설정 */
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+    margin-top: 15px;
+}
+
+.select.on .check_icon {
+    display: inline-block; /* 체크 박스가 보이도록 설정 */
+}

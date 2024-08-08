@@ -1,0 +1,54 @@
+body {
+    background-color: #f9f9f9;
+}
+
+.container{
+    margin: 90px auto;
+    max-width: 340px;
+    border: none;
+    padding: 20px;
+    text-align: center;
+}
+
+.loginWindow {
+    padding: 10px auto;
+}
+
+.loginWindow input{
+    margin-bottom: 10px;
+    background-color: #ffffff;
+    height: 40px;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    border: 1px solid #eaeaea;
+    border-radius: 4px;
+}
+
+.loginWindow input::placeholder{
+    font-size: 12px;
+    font-weight: 100;
+}
+
+.login {
+    height: 40px;
+    box-sizing: border-box;
+    border: 0px;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.deactivatedColor {
+    background-color: #c8ace8;
+}
+
+.activatedColor {
+    background-color: #9500ff;
+}
+
+.loginWindow * {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}

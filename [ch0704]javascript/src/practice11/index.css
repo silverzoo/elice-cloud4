@@ -1,0 +1,31 @@
+body {
+    background-color:white;
+}
+
+.container{
+    margin: 90px auto;
+    max-width: 340px;
+    border: none;
+    padding: 20px;
+    text-align: center;
+}
+
+.inputWindow input{
+    background-color: #ffffff;
+    height: 40px;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    border: 1px solid #eaeaea;
+    border-radius: 4px;
+}
+
+.attend {
+    width: 60px;
+    height: 40px;
+    box-sizing: border-box;
+    border: 0px;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 15px;
+    background-color: darkorchid;
+}Z
